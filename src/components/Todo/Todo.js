@@ -1,4 +1,4 @@
-mport { Button, Checkbox, List, Col, Input, Pagination } from 'antd';
+import { Button, Checkbox, List, Col, Input, Pagination } from 'antd';
 import React, {Component } from 'react';
 
 export default class Todo extends Component {
